@@ -1,0 +1,9 @@
+
+visualizer = "Retro"
+vis_volume_linked = false
+volume = -12
+
+repeat = "All"
+shuffle = false
+eq_preset = "Custom"
+eq = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
