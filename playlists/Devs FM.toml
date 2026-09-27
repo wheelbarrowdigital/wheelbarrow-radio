@@ -7,10 +7,73 @@ genre = "Synthwave"
 duration_secs = 7181
 
 [[track]]
-path = "https://www.youtube.com/watch?v=knbaRZMVD1s"
+path = "https://www.youtube.com/watch?v=DYF5NAsNMLg"
 title = "Vaporwave Coding Mix Vol II - Feels Like We’re BACK TO 1984"
+artist = "Devs FM"
+year = 1984
+genre = "Vaporwave"
+duration_secs = 5456
+
+[[track]]
+path = "https://www.youtube.com/watch?v=aGnmNehTW_g"
+title = "Synthwave Coding Mix v1.0 – Feels Like 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝟏𝟗𝟖𝟕 Never Closed"
+artist = "Devs FM"
+year = 1987
+genre = "Synthwave"
+duration_secs = 7204
+
+[[track]]
+path = "https://www.youtube.com/watch?v=qxNC_Tg_Uzk"
+title = "Vaporwave Coding Mix Vol III - Feels Like We’re BACK TO 1984"
+artist = "Devs FM"
+year = 1984
+genre = "Vaporwave"
+duration_secs = 5699
+
+[[track]]
+path = "https://www.youtube.com/watch?v=6Yg-jW8NwRI"
+title = "Synthwave Coding Mix v2.0 – Feels Like 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝟏𝟗𝟖𝟕 Never Closed"
+artist = "Devs FM"
+year = 1987
+genre = "Synthwave"
+duration_secs = 7200
+
+[[track]]
+path = "https://www.youtube.com/watch?v=cVrXi-TgVN4"
+title = "Vaporwave Coding Mix Vol I – Feels Like We’re 𝐁𝐀𝐂𝐊 𝐓𝐎 𝟏𝟗𝟖𝟒"
+artist = "Devs FM"
+year = 1984
+genre = "Vaporwave"
+duration_secs = 5437
+
+[[track]]
+path = "https://www.youtube.com/watch?v=Yh6oDlQLTao"
+title = "Vaporwave Coding Mix Vol IV - Feels Like We’re BACK TO 1984"
+artist = "Devs FM"
+year = 1984
+genre = "Vaporwave"
+duration_secs = 7205
+
+[[track]]
+path = "https://www.youtube.com/watch?v=vCrXYEp8nG8"
+title = "Synthwave Coding Mix v3.0 – Feels Like 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝟏𝟗𝟖𝟕 Never Closed"
+artist = "Devs FM"
+year = 1987
+genre = "Synthwave"
+duration_secs = 7174
+
+[[track]]
+path = "https://www.youtube.com/watch?v=Nj5i-vtVpW8"
+title = "Vaporwave Coding Mix Vol V - Feels Like We’re BACK TO 1984"
 artist = "Devs FM"
 year = 1984
 genre = "Vaporwave"
 duration_secs = 5455
 
+[[track]]
+path = "https://www.youtube.com/watch?v=G5jXva49Cz0"
+title = "16-bit Synthwave Coding Mix — SYSOPS B1: The Server Room"
+artist = "Devs FM"
+year = 2025
+genre = "Synthwave"
+duration_secs = 2732
